@@ -8,12 +8,12 @@ _**T**oday **M**inchan **I**nformation_
 
 - ### Express
 
-  - <a href="https://github.com/rmanguinho/clean-ts-api" target="_blank">https://github.com/rmanguinho/clean-ts-api</a>
+  - https://github.com/rmanguinho/clean-ts-api
 
 - ### React
 
-  - <a href="https://github.com/rmanguinho/clean-react" target="_blank">https://github.com/rmanguinho/clean-react</a>
+  - https://github.com/rmanguinho/clean-react
 
 - ### TypeScript
 
-  - <a href="https://radlohead.gitbook.io/typescript-deep-dive/" target="_blank">https://radlohead.gitbook.io/typescript-deep-dive/</a>
+  - https://radlohead.gitbook.io/typescript-deep-dive/
