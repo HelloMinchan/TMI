@@ -21,3 +21,8 @@ _**T**oday **M**inchan **I**nformation_
 - ### System Design
 
   - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+
+- ### Methodology
+
+  - https://12factor.net/
+  - https://en.wikipedia.org/wiki/SOLID
