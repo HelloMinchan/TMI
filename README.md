@@ -17,3 +17,7 @@ _**T**oday **M**inchan **I**nformation_
 - ### TypeScript
 
   - https://radlohead.gitbook.io/typescript-deep-dive/
+
+- ### System Design
+
+  - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
