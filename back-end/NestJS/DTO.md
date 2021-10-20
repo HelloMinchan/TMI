@@ -1,4 +1,4 @@
-data transfer object(DTO)
+# DTO (data transfer object)
 
 **사용 이유** <br>
 
