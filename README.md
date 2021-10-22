@@ -6,18 +6,6 @@ _**T**oday **M**inchan **I**nformation_
 
 ## reference
 
-- ### Express
-
-  - https://github.com/rmanguinho/clean-ts-api
-
-- ### React
-
-  - https://github.com/rmanguinho/clean-react
-
-- ### TypeScript
-
-  - https://radlohead.gitbook.io/typescript-deep-dive/
-
 - ### System Design
 
   - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
@@ -26,3 +14,23 @@ _**T**oday **M**inchan **I**nformation_
 
   - https://12factor.net/
   - https://en.wikipedia.org/wiki/SOLID
+
+- ### Express
+
+  - https://github.com/rmanguinho/clean-ts-api
+
+- ### React
+
+  - https://github.com/rmanguinho/clean-react
+
+- ### JavaScript
+
+  - https://kangax.github.io/
+
+- ### Node.js
+
+  - https://node.green/
+
+- ### TypeScript
+
+  - https://radlohead.gitbook.io/typescript-deep-dive/
