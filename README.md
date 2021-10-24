@@ -1,6 +1,6 @@
 # TMI
 
-### _**T**oday **M**inchan **I**nformation_
+### _Today Minchan Information_
 
 <br>
 
