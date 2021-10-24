@@ -1,36 +1,50 @@
 # TMI
 
-_**T**oday **M**inchan **I**nformation_
+### _**T**oday **M**inchan **I**nformation_
 
 <br>
 
-## reference
+## # Reference
 
-- ### System Design
+- ### Back-End & Infrastructure
 
-  - https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+  - #### Express
 
-- ### Methodology
+    - #### [celan ts api](https://github.com/rmanguinho/clean-ts-api)
 
-  - https://12factor.net/
-  - https://en.wikipedia.org/wiki/SOLID
+  - #### System Design
 
-- ### Express
+    - #### [Grokking System Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 
-  - https://github.com/rmanguinho/clean-ts-api
+- ### Front-End & UI/UX
 
-- ### React
+  - #### React
 
-  - https://github.com/rmanguinho/clean-react
+    - #### [clean react](https://github.com/rmanguinho/clean-react)
 
-- ### JavaScript
+  - #### UI/UX
+    - #### [다국어 웹사이트 구축 방법](https://www.lionbridge.com/ko/blog/translation-localization/9-essential-elements-intelligent-multilingual-website-design/)
 
-  - https://kangax.github.io/
+- ### Language & Runtime
 
-- ### Node.js
+  - #### JavaScript
 
-  - https://node.green/
+    - #### [ECMAScript compatibility table](https://kangax.github.io/)
 
-- ### TypeScript
+  - #### Node.js
 
-  - https://radlohead.gitbook.io/typescript-deep-dive/
+    - #### [Node.js syntax](https://node.green/)
+
+  - #### TypeScript
+
+    - [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive/)
+
+- ### Methodology & Principles
+
+  - #### Software Development Methodologies
+
+    - #### [The Twelve-Factor App](https://12factor.net/)
+
+  - #### Software Development Principles
+
+    - #### [SOLID](https://en.wikipedia.org/wiki/SOLID)
