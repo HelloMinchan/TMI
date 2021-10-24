@@ -37,7 +37,7 @@
 
   - #### TypeScript
 
-    - [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive/)
+    - #### [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive/)
 
 - ### Methodology & Principles
 
