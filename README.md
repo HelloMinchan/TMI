@@ -41,10 +41,5 @@
 
 - ### Methodology & Principles
 
-  - #### Software Development Methodologies
-
-    - #### [The Twelve-Factor App](https://12factor.net/)
-
-  - #### Software Development Principles
-
-    - #### [SOLID](https://en.wikipedia.org/wiki/SOLID)
+  - #### [The Twelve-Factor App](https://12factor.net/)
+  - #### [SOLID](https://en.wikipedia.org/wiki/SOLID)
