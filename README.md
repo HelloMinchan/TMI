@@ -30,6 +30,7 @@
   - #### JavaScript
 
     - #### [ECMAScript compatibility table](https://kangax.github.io/)
+    - #### [JavaScript Symbols: But Why?](https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c)
 
   - #### Node.js
 
