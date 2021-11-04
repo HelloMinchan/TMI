@@ -19,6 +19,7 @@
 - 401 : Unauthorized (인증 에러)
 - 404 : Not Found (제일 흔한 에러, 컨트롤러를 찾을 수 없을 때)
 - 405 : Method Not Allowed (요청에 해당하는 HTTP 메소드가 없음)
+- 409 : Conflict (리소스가 충돌난 상황, 나의 경우 요청에 의해 처리되어야 하는 데이터가 이미 처리되어 있는 상황에 적용함)
 
 ## Server error responses
 
