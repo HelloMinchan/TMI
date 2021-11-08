@@ -1,6 +1,6 @@
 # Object vs Map
 
-### 레디스에 저장핧 데이터구조를 생각하다 문득 자바스크립트에서 Object와 Map의 차이에 대해 궁금해졌다.
+### 레디스에 저장할 데이터구조를 생각하다 문득 자바스크립트에서 Object와 Map의 차이에 대해 궁금해졌다.
 
 1. Object의 키는 String 이며, Map의 키는 모든 값을 가질 수 있다.
 2. Map은 Object에 비해 크기를 쉽게 구할 수 있다. ex) `Map.size`
