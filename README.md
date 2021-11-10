@@ -2,6 +2,8 @@
 
 ### _Today Minchan Information_
 
+> ### 필요에 의해 공부하고 기록하자!
+
 <br>
 
 ## # Reference
