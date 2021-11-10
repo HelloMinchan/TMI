@@ -10,7 +10,8 @@
 
 > 에러 메시지 : exec user process caused "argument list too long"
 
-문제의 환경 변수를 [Redirection](https://github.com/HelloMinchan/TMI/blob/main/OS/Redirection.md)을 통해 파일화하여 주입하는데, `>` 명령어가 아닌 `>>` 명령어로 만드는 바람에 덮어씌어 지지 않고 Append되어 계속 쌓이고 있었음
+문제의 환경 변수를 [Redirection](https://github.com/HelloMinchan/TMI/blob/main/OS/Redirection.md)을 통해 파일화하여 주입하는데,  
+`>` 명령어가 아닌 `>>` 명령어로 만드는 바람에 덮어씌어 지지 않고 Append되어 계속 쌓이고 있었음
 
 ## 해결
 
