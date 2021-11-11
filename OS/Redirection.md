@@ -7,7 +7,7 @@ Redirection(재지향)이란 OS 단에서 쉘이 표준 입출력을 파일 형�
   standard output of command to file
 - `command 1> fileWrite`  
   standard output of command to file (same as previous)
-- `command 2> file`
+- `command 2> file`  
   Write standard error of command to file (OS/2 and NT)
 - `command > file 2>&1`  
   Write both standard output and standard error of command to file (OS/2 and NT)
