@@ -10,7 +10,7 @@
 
 > sudo apt update
 
-> apt install docker-ce
+> sudo apt install docker-ce
 
 - 도커 실행 확인  
   sudo systemctl status docker
