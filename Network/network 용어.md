@@ -12,3 +12,5 @@
 ## 프로토콜(protocol)
 
 호스트들이 데이터 통신할 때 사용하는 통신 규칙
+
+![image](https://user-images.githubusercontent.com/52199223/158354216-dd999cee-110f-443d-a1dc-e788dbbf84ee.png)
