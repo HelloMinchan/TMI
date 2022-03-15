@@ -18,6 +18,10 @@
 
     - #### [Grokking System Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 
+  - #### RESTful API Design
+
+    - #### [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+
 - ### Front-End & UI/UX
 
   - #### React
