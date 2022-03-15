@@ -16,3 +16,5 @@
     - TCP 또는 UDP 프로토콜 사용
   - Application -> OSI 7계층 중 5, 6, 7 계층
     - FTP, HTTP, DHCP
+
+![image](https://user-images.githubusercontent.com/52199223/158367269-7f9b849c-6826-4565-8d5f-41b4fa7a4b83.png)
