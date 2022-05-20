@@ -50,3 +50,4 @@
 
   - #### [The Twelve-Factor App](https://12factor.net/)
   - #### [SOLID](https://en.wikipedia.org/wiki/SOLID)
+  - #### [뱅크샐러드 테크 스펙](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
